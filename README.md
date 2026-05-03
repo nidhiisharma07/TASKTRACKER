@@ -6,8 +6,8 @@ A modern full-stack web application to manage team projects, assign tasks, track
 
 ## 🌐 Live Demo
 
-* **Frontend (Vercel):** https://your-frontend.vercel.app
-* **Backend (Railway):** https://your-backend.up.railway.app
+* **Frontend (Vercel):** https://tasktracker-zk6b.vercel.app
+* **Backend (Railway):** https://tasktracker-production-1d9f.up.railway.app/
 
 ---
 
